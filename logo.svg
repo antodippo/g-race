@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="G-Race">
+  <rect width="128" height="128" rx="26" fill="#1a2029"/>
+  <path d="M88 40A34 34 0 1 0 98 64H70" fill="none" stroke="#eef0e6" stroke-width="27"/>
+  <path d="M88 40A34 34 0 1 0 98 64H70" fill="none" stroke="#e5482f" stroke-width="27" stroke-dasharray="8 8"/>
+  <path d="M88 40A34 34 0 1 0 98 64H70" fill="none" stroke="#474c56" stroke-width="19"/>
+  <path d="M88 40A34 34 0 1 0 98 64H70" fill="none" stroke="#f4c63d" stroke-width="2.5" stroke-dasharray="5 5"/>
+  <g fill="#eef0e6"><rect x="70" y="54.5" width="4" height="4"/><rect x="74" y="58.5" width="4" height="4"/><rect x="70" y="62.5" width="4" height="4"/><rect x="74" y="66.5" width="4" height="4"/><rect x="70" y="70.5" width="4" height="3"/></g>
+  <g fill="#17191d"><rect x="74" y="54.5" width="4" height="4"/><rect x="70" y="58.5" width="4" height="4"/><rect x="74" y="62.5" width="4" height="4"/><rect x="70" y="66.5" width="4" height="4"/><rect x="74" y="70.5" width="4" height="3"/></g>
+</svg>

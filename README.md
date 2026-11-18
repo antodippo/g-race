@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.svg" width="112" alt="G-Race logo"></p>
+
 # G-Race
 
 A top-down, single-screen Formula racing game that runs in the browser. No install, no build step: the whole game is one HTML file.
@@ -31,6 +33,10 @@ On a phone, on-screen pedals appear during the race.
 ## Running locally
 
 Open `index.html` in a browser. Fonts load from Google Fonts; everything else is in the file.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
 
 ## Credits
 
