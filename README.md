@@ -4,7 +4,7 @@
 
 A top-down, single-screen Formula racing game that runs in the browser. No install, no build step: the whole game is one HTML file.
 
-**Play:** https://antodippo.github.io/g-race/
+**Play:** https://antodippo.com/g-race/
 
 ## Features
 
